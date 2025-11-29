@@ -1,0 +1,8 @@
+*__pycache__*
+*.Rhistory
+*.DS_Store
+tmp
+shared_tmp/
+.ipynb_checkpoints
+*_cache/
+cache
