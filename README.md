@@ -1,4 +1,4 @@
-# RAPiD_Flex_Seq_Assay_SNP_Calling
+# RAPiD-Flex-Seq-Assay-SNP-Calling
 Repository for documenting a SNP calling pipeline for RAPiD Flex-Seq assay
 
 * `R_script` documents R scripts for running the SNP calling pipeline for 100 SNPs
